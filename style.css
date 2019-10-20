@@ -30,6 +30,10 @@ body{
     font-weight: 700;
 }
 
+.button:hover{
+    transform: translate(0, -5px);
+}
+
 .or_block{
     display: block;
     height: 60px;
